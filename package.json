@@ -1,0 +1,28 @@
+{
+  "name": "cipher_vault-server_test",
+  "version": "1.0.0",
+  "description": "\"# Cipher_vault-Server_Test\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motiforstudy/Cipher_vault-Server_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/motiforstudy/Cipher_vault-Server_Test/issues"
+  },
+  "homepage": "https://github.com/motiforstudy/Cipher_vault-Server_Test#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.89.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongodb": "^7.0.0"
+  }
+}
